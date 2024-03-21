@@ -1,9 +1,12 @@
-alert('Error! Please enter a valid password');
+alert('Welcome! User');
 
-alert('Welcome to JS');
+alert("Error! Please enter a valid Password.");
 
-alert('Welcome to JS Land');
 
-alert('Prevent this Page from creating additional dialogs.');
+alert("Welcome to JS Land... \n HJappy Coding");
 
-alert('Hello I Can run JS through my web browsers console');
+alert("Welcome to JS Land...");
+
+alert("Happy Coding! \n Prevent this page from creating additional dialogs.");
+
+alert("Hello...! can you run JS through my web brower console.");
